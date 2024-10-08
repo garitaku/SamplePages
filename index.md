@@ -1,3 +1,2 @@
 こんにちは
-
-このホームページのソースコードは[こちら](https://github.com//garitaku/SamplePages/)
+![猫の画像](_c7448ec9-5965-4f07-895c-91ec515bd9dc.jpeg)
